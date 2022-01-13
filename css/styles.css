@@ -1,0 +1,8 @@
+.hidden-text {
+  display: none;
+}
+
+.animal-image {
+  display: none;
+  max-width: 300px;
+}
